@@ -1,0 +1,10 @@
+name = "CommunityDetectionAlgorithms"
+uuid = "0cbd6530-6264-438d-abb5-7f21333ae253"
+authors = ["jsyme <jsyme.bus@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DiscreteGraphAlgorithms = "07f0ec66-74e6-47f7-aa14-4ab50129b767"
+GraphDistanceAlgorithms = "3fdb58ca-69fc-4f8a-a371-f94284468b8f"
+GraphFragments = "914fef10-e0c9-4d66-a89c-821cfc33e5ae"
+IterativeHeaps = "e285971d-2591-481a-9e11-e370fbcde40d"
